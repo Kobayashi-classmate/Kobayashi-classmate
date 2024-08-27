@@ -25,3 +25,30 @@
 - ไม่มีอะไรที่นี่ โปรดหยุดเรียกดู...
   
 - ... ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let me see how many people have entered this directory...
+![:md](https://api.capiry.com/counte/get/@Kobayashi-classmate-md?theme=gelbooru) 

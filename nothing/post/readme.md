@@ -25,3 +25,31 @@
 - ไม่มีอะไรที่นี่ โปรดหยุดเรียกดู...
   
 - ... ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let me see how many people have entered this directory...
+![:Kobayashi-classmate](https://api.capiry.com/counte/get/@Kobayashi-classmate-nothing?theme=asoul) 
