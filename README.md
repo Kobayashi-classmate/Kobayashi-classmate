@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kobayashi-classmate</h1>
 <h3 align="center">A weak rookie......= =</h3>
 
-- 📝 I regularly write articles on [https://capiry.life](https://capiry.life)
-
-- 📄 Know about my experiences [https://capiry.com](https://capiry.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
